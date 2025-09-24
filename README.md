@@ -1,0 +1,1 @@
+This is a test project pushed from local mmachine to git via using git remote command .
